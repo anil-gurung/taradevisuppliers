@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import Card from '../UI/Card';
 
-const specialProducts = () => {
+const SpecialProducts = () => {
   return (
     <section>
       <div className="container specialproducts_container">
@@ -39,4 +39,4 @@ const specialProducts = () => {
     </section>
   );
 };
-export default specialProducts;
+export default SpecialProducts;
