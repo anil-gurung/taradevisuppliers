@@ -66,14 +66,19 @@
   font-weight: 900;
 }
 .mill_img {
-  /* width: 65%; */
+  margin-inline: auto;
   margin-top: 3rem;
 }
 
 /* media queries(small screens) */
 @media screen and (max-width: 600px) {
   .mill_title {
-    font-size: 60px;
+    font-size: 50px;
+    margin-inline: auto;
+  }
+  .mill_img {
+    margin-right: 1rem;
+    margin-inline: auto;
   }
 }
 

@@ -57,7 +57,7 @@ export const products = [
   {
     id: 2,
     title: 'FAIZAAN',
-    desc: 'Introducing IKKA Faziaan, the epitome of naturally processed golden grains that consistently deliver perfection in every cooking experience. Our commitment to quality is evident as we proudly sell over 3,00,000 bags annually, winning the hearts of discerning rice lovers worldwide.',
+    desc: 'Introducing IKKA Faziaan, the epitome of naturally processed golden grains that consistently deliver perfection in every cooking experience. We are proudly committed to ensure the best quality rice to all the Nepalese BASMATI rice lovers.',
     url: 'https://aakashagro.com/wp-content/uploads/2023/07/faizan.png',
   },
 

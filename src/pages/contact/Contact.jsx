@@ -20,14 +20,14 @@ const Contact = () => {
               <IoIosMail />
             </a>
             <a
-              href="http://m.me/taradevisuppliers"
+              href="https://www.facebook.com/profile.php?id=61568639694080"
               target="_blank"
               rel="noreferrer noopener"
             >
               <BsMessenger />
             </a>
             <a
-              href="https://wa.me/+9779846109653"
+              href="https://wa.me/+9779815153565"
               target="_blank"
               rel="noreferrer noopener"
             >

@@ -21,14 +21,14 @@ const footer = () => {
               <IoIosMail />
             </a>
             <a
-              href="http://m.me/taradevisuppliers"
+              href="https://www.facebook.com/profile.php?id=61568639694080"
               target="_blank"
               rel="noreferrer noopener"
             >
               <BsMessenger />
             </a>
             <a
-              href="https://wa.me/+9779846109653"
+              href="https://wa.me/+9779815153565"
               target="_blank"
               rel="noreferrer noopener"
             >
@@ -40,7 +40,7 @@ const footer = () => {
           <h4>Contact Address</h4>
           <p>ADDRESS : Shuklagandaki-5, Dulegaunda, Tanahun</p>
           <p>MOBILE No. : 9846109653</p>
-          <p>EMAIL : taradevisuppliers@g mail.com</p>
+          <p>EMAIL : taradevisuppliers@gmail.com</p>
         </article>
 
         <article>

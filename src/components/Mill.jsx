@@ -4,7 +4,7 @@ const mill = () => {
   return (
     <div className="mill_container container">
       <div className="mill_text">
-        <h1 className="mill_title">TARADEVI SUPPLIERS Pvt. Ltd</h1>
+        <h1 className="mill_title">TARADEVI SUPPLIERS</h1>
       </div>
       <div className="mill_img">
         <img
