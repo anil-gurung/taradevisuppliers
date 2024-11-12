@@ -178,6 +178,10 @@ footer {
   .footer_container article {
     align-items: center;
   }
+  .footer_copyright {
+    width: 80%;
+    margin-inline: auto;
+  }
 }
 
 /* form */
